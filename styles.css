@@ -1,0 +1,28 @@
+/* element selector*/
+
+p{
+	color: black;
+	width: 50%;
+}
+
+/* class selector */
+
+.quote {
+	color: red; 
+	border: 1px solid black;
+}
+
+.positive{
+		color: green;
+}
+
+.negative {
+	color: red;
+}
+
+/* id selector */
+
+#mainquote{
+	color: purple;
+	border: 5px solid black;
+}
